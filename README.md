@@ -5,5 +5,4 @@ Scope. Micro-air vehicles (MAVs), also known as drones, are semi-autonomous syst
   
 This project focuses on the design, manufacturing, and testing of a compact, lightweight, and functional final prototype capable of generating aerodynamic thrust, and ready for a range of potential future additional features and applications.
 
-![BATMAV - General Design 2](https://github.com/user-attachments/assets/05db6eeb-7622-4295-af85-cbd97801effe)
 
