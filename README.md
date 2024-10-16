@@ -9,4 +9,4 @@ This project focuses on the design, manufacturing, and testing of a compact, lig
 
 
 <a href="REPORT.pdf" target="_blank">Report</a>  
-<a href="https://www.researchgate.net/profile/Domenico-Bevilacqua/research" target="_blank">ResearchGate Page</a>
+<a href="https://www.youtube.com/playlist?list=PLuJvVmGuF8ujuMsnPx_0fy3ojI6xF_l5W" target="_blank">Videos</a>
