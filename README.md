@@ -9,5 +9,8 @@ This project focuses on the design, manufacturing, and testing of a compact, lig
 
 ![alt text](https://github.com/domebevi/BATMAV.Bio-Inspired_SMA-Actuated_Drone/blob/main/image.jpg?raw=true)
 
+Credits: Domenico Bevilacqua - domebevi@gmail.com
+
+
 
 
